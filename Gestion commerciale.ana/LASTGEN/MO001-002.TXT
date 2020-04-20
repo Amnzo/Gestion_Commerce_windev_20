@@ -1,0 +1,58 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Client		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Client		FCNX+	Connexion à 'localhost'	
+Commande		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Commande		FCNX+	Connexion à 'localhost'	
+Fournisseur		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Fournisseur		FCNX+	Connexion à 'localhost'	
+LigneCde		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+LigneCde		FCNX+	Connexion à 'localhost'	
+Produit		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Produit		FCNX+	Connexion à 'localhost'	
+Cedex		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Cedex		FCNX+	Connexion à 'localhost'	
+TVA		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+TVA		FCNX+	Connexion à 'localhost'	
+Adr_Livraison		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Adr_Livraison		FCNX+	Connexion à 'localhost'	
+Login		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Login		FCNX+	Connexion à 'localhost'	
+ActionRéalisée		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+ActionRéalisée		FCNX+	Connexion à 'localhost'	
+ActionPossible		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+ActionPossible		FCNX+	Connexion à 'localhost'	
+EntréeStock		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+EntréeStock		FCNX+	Connexion à 'localhost'	
+ModeLivraison		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+ModeLivraison		FCNX+	Connexion à 'localhost'	
+Stock		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Stock		FCNX+	Connexion à 'localhost'	
+SortieStock		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+SortieStock		FCNX+	Connexion à 'localhost'	
+Adr_Facturation		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Adr_Facturation		FCNX+	Connexion à 'localhost'	
+Devis		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Devis		FCNX+	Connexion à 'localhost'	
+LigneDevis		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+LigneDevis		FCNX+	Connexion à 'localhost'	
+ModeRèglement		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+ModeRèglement		FCNX+	Connexion à 'localhost'	
+Facture		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Facture		FCNX+	Connexion à 'localhost'	
+LigneFac		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+LigneFac		FCNX+	Connexion à 'localhost'	
+Avoir		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Avoir		FCNX+	Connexion à 'localhost'	
+LigneAvoir		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+LigneAvoir		FCNX+	Connexion à 'localhost'	
+Règlement		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Règlement		FCNX+	Connexion à 'localhost'	
+FraisPort		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+FraisPort		FCNX+	Connexion à 'localhost'	
+Famille		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Famille		FCNX+	Connexion à 'localhost'	
+Société		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Société		FCNX+	Connexion à 'localhost'	
+Parametre		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Parametre		FCNX+	Connexion à 'localhost'	
+Connexion à 'localhost'		CNX+		

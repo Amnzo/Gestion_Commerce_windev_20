@@ -1,0 +1,3 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+stat		NFI		nouveau fichier
+stat		FRN		

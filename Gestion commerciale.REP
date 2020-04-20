@@ -1,0 +1,21 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=D	;Analysis GUID
+LOCALIZATION_UTF8=D7A79EDF776C11D486C800902757C224	Commande	C:\WinDev 20\Exemples\Exemples complets\Gestion Commerciale\Exe\Commande.FIC
+LOCALIZATION_UTF8=D7A79ED4776C11D486C800902757C224	Client	C:\WinDev 20\Exemples\Exemples complets\Gestion Commerciale\Exe\Client.FIC
+LOCALIZATION_UTF8=97D60F93296C4F7C83B01968C24C2A29	ModeRèglement	C:\WinDev 20\Exemples\Exemples complets\Gestion Commerciale\Exe\ModeReglement.FIC
+LOCALIZATION_UTF8=40440E5DDDAF4D16BDB08674664EBC45	Famille	C:\WinDev 20\Exemples\Exemples complets\Gestion Commerciale\Exe\Famille.FIC
+LOCALIZATION_UTF8=D7A79EF3776C11D486C800902757C224	LigneCde	C:\WinDev 20\Exemples\Exemples complets\Gestion Commerciale\Exe\LigneCde.FIC
+LOCALIZATION_UTF8=D7A79EFA776C11D486C800902757C224	Produit	C:\WinDev 20\Exemples\Exemples complets\Gestion Commerciale\Exe\Produit.FIC
+LOCALIZATION_UTF8=C20CF5F1B75D4CD6930E8536CD581D9D	FraisPort	C:\WinDev 20\Exemples\Exemples complets\Gestion Commerciale\Exe\FraisPort.FIC
+LOCALIZATION_UTF8=2857B637723442409E9CC71AA4A01408	Stock	C:\WinDev 20\Exemples\Exemples complets\Gestion Commerciale\Exe\Stock.FIC
+LOCALIZATION_UTF8=952189B8C7804E37BAC0AE46D8FCBC91	EntréeStock	C:\WinDev 20\Exemples\Exemples complets\Gestion Commerciale\Exe\EntreeStock.FIC
+LOCALIZATION_UTF8=6EEC8FD8E319434BAFEF7296AA9C72AE	SortieStock	C:\WinDev 20\Exemples\Exemples complets\Gestion Commerciale\Exe\SortieStock.FIC
+LOCALIZATION_UTF8=D7A79F16776C11D486C800902757C224	TVA	C:\WinDev 20\Exemples\Exemples complets\Gestion Commerciale\Exe\TVA.FIC
+LOCALIZATION_UTF8=D7A79EE9776C11D486C800902757C224	Fournisseur	C:\WinDev 20\Exemples\Exemples complets\Gestion Commerciale\Exe\Fournisseur.FIC
+LOCALIZATION_UTF8=820F8413B8F64D38A11C4AFC53C88C7A	ModeLivraison	C:\WinDev 20\Exemples\Exemples complets\Gestion Commerciale\Exe\ModeLivraison.FIC
+LOCALIZATION_UTF8=06A1D5A96AB9430AA3D560F31AFD455B	Facture	C:\WinDev 20\Exemples\Exemples complets\Gestion Commerciale\Exe\Facture.FIC
+LOCALIZATION_UTF8=FC2C4075DE6F47659852001F551D28ED	Devis	C:\WinDev 20\Exemples\Exemples complets\Gestion Commerciale\Exe\Devis.FIC
+LOCALIZATION_UTF8=5CA4A75F60274015AFA0C4F161AEEA9A	ActionRéalisée	C:\WinDev 20\Exemples\Exemples complets\Gestion Commerciale\Exe\ActionRealisee.FIC
+LOCALIZATION_UTF8=D7A79F06776C11D486C800902757C224	Cedex	C:\WinDev 20\Exemples\Exemples complets\Gestion Commerciale\Exe\Cedex.FIC
+LOCALIZATION_UTF8=2610090712324EF590E3C113CF6B8157	Login	C:\WinDev 20\Exemples\Exemples complets\Gestion Commerciale\Exe\Login.FIC

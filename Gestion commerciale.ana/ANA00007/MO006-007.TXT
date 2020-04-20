@@ -1,0 +1,86 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+Client		TAR	603	nouvelle taille enregistrement : 603
+Client		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+Client		FCNX+	Connexion à 'localhost'	
+Commande		TAR	157	nouvelle taille enregistrement : 157
+Commande		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+Commande		FCNX+	Connexion à 'localhost'	
+Fournisseur		TAR	498	nouvelle taille enregistrement : 498
+Fournisseur		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+Fournisseur		FCNX+	Connexion à 'localhost'	
+LigneCde		TAR	117	nouvelle taille enregistrement : 117
+LigneCde		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+LigneCde		FCNX+	Connexion à 'localhost'	
+Produit		TAR	307	nouvelle taille enregistrement : 307
+Produit		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+Produit		FCNX+	Connexion à 'localhost'	
+Cedex		TAR	55	nouvelle taille enregistrement : 55
+Cedex		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+Cedex		FCNX+	Connexion à 'localhost'	
+TVA		TAR	8	nouvelle taille enregistrement : 8
+TVA		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+TVA		FCNX+	Connexion à 'localhost'	
+Adr_Livraison		TAR	414	nouvelle taille enregistrement : 414
+Adr_Livraison		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+Adr_Livraison		FCNX+	Connexion à 'localhost'	
+Login		TAR	90	nouvelle taille enregistrement : 90
+Login		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+Login		FCNX+	Connexion à 'localhost'	
+ActionRéalisée		TAR	84	nouvelle taille enregistrement : 84
+ActionRéalisée		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+ActionRéalisée		FCNX+	Connexion à 'localhost'	
+ActionPossible		TAR	49	nouvelle taille enregistrement : 49
+ActionPossible		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+ActionPossible		FCNX+	Connexion à 'localhost'	
+EntréeStock		TAR	118	nouvelle taille enregistrement : 118
+EntréeStock		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+EntréeStock		FCNX+	Connexion à 'localhost'	
+ModeLivraison		TAR	49	nouvelle taille enregistrement : 49
+ModeLivraison		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+ModeLivraison		FCNX+	Connexion à 'localhost'	
+Stock		TAR	79	nouvelle taille enregistrement : 79
+Stock		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+Stock		FCNX+	Connexion à 'localhost'	
+SortieStock		TAR	141	nouvelle taille enregistrement : 141
+SortieStock		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+SortieStock		FCNX+	Connexion à 'localhost'	
+Adr_Facturation		TAR	414	nouvelle taille enregistrement : 414
+Adr_Facturation		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+Adr_Facturation		FCNX+	Connexion à 'localhost'	
+Devis		TAR	113	nouvelle taille enregistrement : 113
+Devis		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+Devis		FCNX+	Connexion à 'localhost'	
+LigneDevis		TAR	102	nouvelle taille enregistrement : 102
+LigneDevis		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+LigneDevis		FCNX+	Connexion à 'localhost'	
+ModeRèglement		TAR	49	nouvelle taille enregistrement : 49
+ModeRèglement		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+ModeRèglement		FCNX+	Connexion à 'localhost'	
+Facture		TAR	158	nouvelle taille enregistrement : 158
+Facture		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+Facture		FCNX+	Connexion à 'localhost'	
+LigneFac		TAR	114	nouvelle taille enregistrement : 114
+LigneFac		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+LigneFac		FCNX+	Connexion à 'localhost'	
+Avoir		TAR	130	nouvelle taille enregistrement : 130
+Avoir		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+Avoir		FCNX+	Connexion à 'localhost'	
+LigneAvoir		TAR	108	nouvelle taille enregistrement : 108
+LigneAvoir		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+LigneAvoir		FCNX+	Connexion à 'localhost'	
+Règlement		TAR	91	nouvelle taille enregistrement : 91
+Règlement		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+Règlement		FCNX+	Connexion à 'localhost'	
+FraisPort		TAR	72	nouvelle taille enregistrement : 72
+FraisPort		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+FraisPort		FCNX+	Connexion à 'localhost'	
+Famille		TAR	92	nouvelle taille enregistrement : 92
+Famille		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+Famille		FCNX+	Connexion à 'localhost'	
+Société		TAR	390	nouvelle taille enregistrement : 390
+Société		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+Société		FCNX+	Connexion à 'localhost'	
+Parametre		TAR	43	nouvelle taille enregistrement : 43
+Parametre		TYPE		Le type du fichier est passé de HFSQL à Accès natif / Autre accès OLE DB
+Parametre		FCNX+	Connexion à 'localhost'	
+Connexion à 'localhost'		CNX+		
